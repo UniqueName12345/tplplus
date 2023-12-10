@@ -1,3 +1,2 @@
-dv 00 chicken
-pr :00
+dv 00 hello world
 pr :00
